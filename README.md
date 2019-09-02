@@ -36,7 +36,7 @@ Contributions are always welcome!
 - [curl-loader](http://curl-loader.sourceforge.net/) -  
 - [httpref](https://github.com/httperf/httperf) - 
 - [weighttp](http://redmine.lighttpd.net/projects/weighttp/wiki) - lightweight benchmarking tool, only support a small fraction of HTTP protocol
-- [wrk2](https://github.com/giltene/wrk2) - based on original `wrk` 
+- [wrk2](https://github.com/giltene/wrk2) - based on original `wrk` by Gil Tene, enhanced to be resistant to coordinated omission problem.
 
 ### Other
 - [yandex-tank](https://github.com/yandex/yandex-tank) (python) - extensible load testing tool, uses yandex's own `phantom` engine in the background, capable of generating ~100000 tps.
@@ -48,8 +48,8 @@ Contributions are always welcome!
 ## Load Testing Platforms
 - [BlazeMeter](https://www.blazemeter.com) - scalable, open source-based performance tests against web apps and services, support multiple performance script jMeter, Gatling etc...
 - [Gatling Frontline](https://gatling.io/gatling-frontline/) - enterprise version of gatling.
-- [Artillery Pro](http://artillery.io/pro/) 
-- [flood.io](https://flood.io/load-performance-testing-tool/) 
+- [Artillery Pro](http://artillery.io/pro/) - load test tool deployed to your AWS account, allows distributed load testing
+- [flood.io](https://flood.io/load-performance-testing-tool/) - platform to execute load tests in the cloud, highly scalable, supports selenium, jmeter and gatling scripts. 
 
 ## Application Performance Monitoring Tools
 https://github.com/bestiejs/benchmark.js
@@ -64,9 +64,13 @@ https://github.com/bestiejs/benchmark.js
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [SiteSpeed](https://www.sitespeed.io/)
 
+## Utility
+- [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - library used to create high dynamic range histogram or percentile plot, available in various languages. 
+
 ## Talks
 - [using open source tools for performance testing](https://www.youtube.com/watch?v=k9h51BM2h4w) - Goranka Bjedov
 - [Performance tests with Gatling](https://www.youtube.com/watch?v=cRo0G-vpC7c) - Andrzej Ludwikowski
+- [How NOT to measure latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) - Gil Tene
 
 ## Articles
 
