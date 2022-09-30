@@ -57,6 +57,7 @@ https://github.com/bestiejs/benchmark.js
 - [New Relic Browser](https://newrelic.com/products/browser-monitoring) - client side error and performance monitoring, observes page loads, response time and establish baseline for ongoing monitoring. 
 - [Nginx Amplify](https://amplify.nginx.com/docs/) - a tool for comprehensive NGINX monitoring. With NGINX Amplify it's easy to proactively analyze and fix problems related to running and scaling NGINX-based web applications.
 - [jHiccup](https://github.com/giltene/jHiccup) - jvm agent to monitor for 'hiccup' in application
+- [tigerprof](http://github.com/djinn/tigerprof) - Java profiling tool which uses JVM TI. It can be used in conjugation with Flamegraph
 
 ## Browser Performance Testing
 - [Pingdom](https://tools.pingdom.com/)
