@@ -76,7 +76,9 @@ https://github.com/bestiejs/benchmark.js
 ## Articles
 
 ### General
-- [Fast Load Time](https://web.dev/fast) 
+- [Fast Load Time](https://web.dev/fast)
+- [JMeter vs k6 vs Gatling Guide](https://qapractices.com/documentation/jmeter-vs-k6-vs-gatling-guide/) - Practical comparison of popular open-source load testing tools.
+- [Performance Testing with JMeter](https://qapractices.com/documentation/performance-testing-with-jmeter/) - Step-by-step guide to designing and running JMeter load tests. 
 
 ### Performance Budget
 - [Performance Budgets Overview](https://addyosmani.com/blog/performance-budgets/) 
