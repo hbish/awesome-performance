@@ -67,6 +67,7 @@ https://github.com/bestiejs/benchmark.js
 
 ## Utility
 - [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - library used to create high dynamic range histogram or percentile plot, available in various languages. 
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - Bash script that benchmarks a Linux server's CPU, memory and 4k random disk IOPS with sysbench and fio in about a minute.
 
 ## Talks
 - [using open source tools for performance testing](https://www.youtube.com/watch?v=k9h51BM2h4w) - Goranka Bjedov
